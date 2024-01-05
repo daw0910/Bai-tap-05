@@ -1,0 +1,7 @@
+D:\BaiTapRenLuyen05\BaiTapRenLuyen05\BaiTapRenLuyen\obj\Debug\BaiTapRenLuyen.csproj.AssemblyReference.cache
+D:\BaiTapRenLuyen05\BaiTapRenLuyen05\BaiTapRenLuyen\obj\Debug\BaiTapRenLuyen.csproj.CoreCompileInputs.cache
+D:\BaiTapRenLuyen05\BaiTapRenLuyen05\BaiTapRenLuyen\bin\Debug\BaiTapRenLuyen.exe.config
+D:\BaiTapRenLuyen05\BaiTapRenLuyen05\BaiTapRenLuyen\bin\Debug\BaiTapRenLuyen.exe
+D:\BaiTapRenLuyen05\BaiTapRenLuyen05\BaiTapRenLuyen\bin\Debug\BaiTapRenLuyen.pdb
+D:\BaiTapRenLuyen05\BaiTapRenLuyen05\BaiTapRenLuyen\obj\Debug\BaiTapRenLuyen.exe
+D:\BaiTapRenLuyen05\BaiTapRenLuyen05\BaiTapRenLuyen\obj\Debug\BaiTapRenLuyen.pdb
